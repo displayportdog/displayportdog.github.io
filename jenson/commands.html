@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home | dpdog.net</title>
+    <link rel="icon" type="image/png" href="/favicon.png"/>
+    <style>
+
+        @import url('https://fonts.googleapis.com/css?family=Inter');
+
+        img {
+            width: 20%;
+            height: 20%;
+            object-fit: contain;
+        }
+
+
+
+        @font-face {
+            font-family: 'Arvo';
+            src: url('/fonts/Arvo-Regular.ttf');
+            font-weight: normal;
+        }
+        @font-face {
+            font-family: 'Arvo';
+            src: url('/fonts/Arvo-Bold.ttf');
+            font-weight: bold;
+        }
+        @font-face {
+            font-family: 'Arvo';
+            src: url('/fonts/Arvo-Italic.ttf');
+            font-weight: normal;
+            font-style: italic;
+        }
+        @font-face {
+            font-family: 'Arvo';
+            src: url('/fonts/Arvo-BoldItalic.ttf');
+            font-weight: bold;
+            font-style: italic;
+        }
+
+        .header {
+            background: #be0707;
+            margin-top: -2vh;
+            margin-left: -2vw;
+            margin-right: -2vw;
+
+            padding-top: 2%;
+            padding-left: 5%;
+            padding-bottom: 0.4%;
+
+
+            color: white;
+            font-size: 30px;
+            text-align: -moz-left;
+            font-weight: 400;
+            font-family: 'Arvo', serif;
+
+        }
+
+        .header2 {
+            margin: 50px;
+            padding: 60px;
+            text-align: right;
+            background: #2b2b2b;
+            color: white;
+            font-size: 30px;
+            font-family: 'Inter', serif;
+            border-radius: 15px 15px 15px 15px;
+        }
+
+        a.btn {
+
+            background-color: inherit;
+
+
+        }
+        .comicButton{
+            padding: 2vw 2vh;
+            border-radius: 7px;
+            font-family: Arvo;
+            font-weight: normal;
+            font-style: italic;
+            font-size: 36px;
+            cursor: pointer;
+            border: 2px solid #2b2b2b;
+            display: inline-block;
+            align-items: center;
+            text-align: right;
+            color: white;
+        }
+
+        .homeButton{
+            padding-top: 4%;
+            border-radius: 0px;
+            font-family: Arvo;
+            font-weight: bold;
+            font-style: italic;
+            font-size: 48px;
+            cursor: pointer;
+            border: none;
+            display: inline-block;
+            align-items: center;
+            text-align: right;
+            color: white;
+        }
+
+        /* On mouse-over */
+        a.btn:hover {
+
+        }
+
+        .comicButton {color: #ffffff;
+            background: #282828;
+            border: 2px solid #ffffff;}
+
+        footer {
+            text-align: center;
+            padding: 3px;
+
+            color: white;
+        }.footSoc {
+             background: #2b2b2b;
+             margin-bottom: -2vh;
+             margin-left: -2vw;
+             margin-right: -2vw;
+
+             padding-top: 2%;
+             padding-left: 5%;
+             padding-bottom: 0.4%;
+
+
+             color: white;
+             font-size: 30px;
+             text-align: -moz-left;
+             font-weight: 400;
+             font-family: 'Arvo', serif;
+
+         }
+
+    </style>
+
+    <div class="header">
+        <a href="index.html" class="btn homeButton" style="display:inline-block;text-decoration:none;">
+            <i>dpdog.net</i>
+        </a>
+        <p><i>I have very little motivation left.</i></p>
+    </div>
+
+    <div class="header2">
+        <!-- <a href="html/comic1.html">comic1</a> -->
+        <h1>Here are some things that Jenson can do:</h1>
+        <h2>help</h2>
+        <p>Display all available commands.</p>
+        <h3>gm, ga, ge, gn</h3>
+        <p>Greetings and farewells!</p>
+        <h3>sprint TIME{h|m|s} [MESSAGE]</h3>
+        <p>Set a timer for the duration specified, then, once the timer is up, repeat the message appended onto the timer.</p>
+        <h3>whois [USER]</h3>
+        <p>Get info on the tagged user!</p>
+        <h3>guildinfo</h3>
+        <p>Get information about the current guild!</p>
+        <h3>meow/woof/screech</h3>
+        <p>Cat, dog and fox pictures, for your viewing pleasure!</p>
+        <h3>gif QUERY</h3>
+        <p>Search for GIFs!</p>
+        <h3>define/urban/thesaurise QUERY</h3>
+        <p>Searches the dictionary/urban dictionary/thesaurus for your word/phrase.</p>
+        <h3>lvl/leaderboard</h3>
+        <p>XP related commands - check your server level, as well as the server's top members.</p>
+        <h3>coinflip</h3>
+        <p>Flip a coin!</p>
+        <h3>choose OPTION1, OPTION2, [OPTION...]</h3>
+        <p>Choose out of a list of options.</p>
+        <h3>poll QUESTION | [OPTION1] | [OPTION2] | [OPTION...]</h3>
+        <p>Create a poll!</p>
+        <h3>yeet/yeetsleep USER</h3>
+        <p>Send a user to be productive/sleep.</p>
+        <h3>prompt</h3>
+        <p>Get inspired!</p>
+        <h3>cookie</h3>
+        <p>Give a cookie!</p>
+        <h3>hug</h3>
+        <p>Everyone deserves love!</p>
+        <h3>departures CRS</h3>
+        <p>Gets outbound services via NRE</p>
+        <h1>     </h1>
+        <h2>On AO3 Link Detection</h2>
+        <p>At the moment, Jenson loads your shared story's webpage, grabs the relevant data, and packages it up all nice and neat for you. This is a really bodged together feature, so it would be appreciated if any feedback were forwarded on to me.</p>
+        <h1>     </h1>
+        <h3>Want to play around with Jenson, or add him to your server?</h3>
+        <small>Unfortunately, Jenson is currently a small project exclusive to one public server, but if you're interested, feel free to message me.</small>
+
+        <p> </p>
+    </div>
+    <footer>
+        <div class="footSoc">
+            <p><b>Website lovingly yet painfully crafted by dpdog#0001</b><br>@displayportdog [Twitter]<br>@displayportdog [Instagram]<br>/u/dp_dog [Reddit]</p>
+
+        </div>
+    </footer>
+    <meta name="theme-color" content="#999999" />
+    <style>
+        body {
+            background-color: #202020
+        }
+    </style>
+</head>
+</html>
