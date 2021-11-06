@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/html/comic1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/comic2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/comic3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/comic4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/comic5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/comic6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/comic1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/comic1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/comic2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/comic2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/comic3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/comic3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/comic4.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/comic4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/comic5.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/comic5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/comic6.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/comic6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/running.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636151067180</updated>
-      <workItem from="1636151069266" duration="8500000" />
+      <workItem from="1636151069266" duration="9462000" />
     </task>
     <servers />
   </component>
