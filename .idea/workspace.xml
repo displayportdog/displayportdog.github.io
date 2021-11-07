@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discordance/moderation/documentation/jenson.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/documentation/jenson.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <workItem from="1636164155413" duration="30000" />
       <workItem from="1636201187478" duration="2172000" />
       <workItem from="1636249113827" duration="3326000" />
-      <workItem from="1636322436797" duration="837000" />
+      <workItem from="1636322436797" duration="1211000" />
     </task>
     <task id="LOCAL-00001" summary="j">
       <created>1636203566322</created>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636323157287</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="d">
+      <created>1636323293948</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1636323293948</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +164,7 @@
     <MESSAGE value="meta add header png" />
     <MESSAGE value="theme color" />
     <MESSAGE value="404 page" />
-    <option name="LAST_COMMIT_MESSAGE" value="404 page" />
+    <MESSAGE value="d" />
+    <option name="LAST_COMMIT_MESSAGE" value="d" />
   </component>
 </project>
