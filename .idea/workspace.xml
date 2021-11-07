@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jenson/commands.html" beforeDir="false" afterPath="$PROJECT_DIR$/jenson/commands.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/comic1.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/comic1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/comic2.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/comic2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/comic3.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/comic3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/comic4.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/comic4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/comic5.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/comic5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/comic6.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/comic6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/comic7.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/comic7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +49,7 @@
       <workItem from="1636151069266" duration="12338000" />
       <workItem from="1636164155413" duration="30000" />
       <workItem from="1636201187478" duration="2172000" />
-      <workItem from="1636249113827" duration="2500000" />
+      <workItem from="1636249113827" duration="3326000" />
     </task>
     <task id="LOCAL-00001" summary="j">
       <created>1636203566322</created>
@@ -115,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636251627114</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="theme color">
+      <created>1636251768857</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636251768857</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +125,7 @@
     <MESSAGE value="Added comic 7" />
     <MESSAGE value="metadata test" />
     <MESSAGE value="meta add header png" />
-    <option name="LAST_COMMIT_MESSAGE" value="meta add header png" />
+    <MESSAGE value="theme color" />
+    <option name="LAST_COMMIT_MESSAGE" value="theme color" />
   </component>
 </project>
