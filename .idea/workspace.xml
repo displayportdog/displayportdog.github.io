@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="" />
+    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/posts/comic8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/comic7.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/comic7.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -32,8 +37,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\github repos\displayportdog.github.io" />
       <recent name="D:\github repos\displayportdog.github.io\posts" />
+      <recent name="D:\github repos\displayportdog.github.io" />
       <recent name="D:\github repos\displayportdog.github.io\html" />
     </key>
   </component>
@@ -49,7 +54,7 @@
       <workItem from="1636164155413" duration="30000" />
       <workItem from="1636201187478" duration="2172000" />
       <workItem from="1636249113827" duration="3326000" />
-      <workItem from="1636322436797" duration="2101000" />
+      <workItem from="1636322436797" duration="2930000" />
     </task>
     <task id="LOCAL-00001" summary="j">
       <created>1636203566322</created>
@@ -163,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636323960932</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="g">
+      <created>1636327764235</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1636327764235</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
