@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/posts/comic8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/comic9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/comic7.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/comic7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/comic8.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/comic8.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,8 @@
       <workItem from="1636164155413" duration="30000" />
       <workItem from="1636201187478" duration="2172000" />
       <workItem from="1636249113827" duration="3326000" />
-      <workItem from="1636322436797" duration="2930000" />
+      <workItem from="1636322436797" duration="3550000" />
+      <workItem from="1636397369539" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="j">
       <created>1636203566322</created>
@@ -175,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636327764235</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added comic 8">
+      <created>1636331696700</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1636331696700</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +198,7 @@
     <MESSAGE value="404 page" />
     <MESSAGE value="d" />
     <MESSAGE value="g" />
-    <option name="LAST_COMMIT_MESSAGE" value="g" />
+    <MESSAGE value="added comic 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="added comic 8" />
   </component>
 </project>
