@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jenson/commands.html" beforeDir="false" afterPath="$PROJECT_DIR$/jenson/commands.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <workItem from="1636249113827" duration="3326000" />
       <workItem from="1636322436797" duration="3550000" />
       <workItem from="1636397369539" duration="996000" />
-      <workItem from="1640398083257" duration="13109000" />
+      <workItem from="1640398083257" duration="13242000" />
     </task>
     <task id="LOCAL-00001" summary="j">
       <created>1636203566322</created>
@@ -313,14 +313,20 @@
       <option name="project" value="LOCAL" />
       <updated>1640412079045</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="fixed the stupid page margins. oh how i hate you, html.">
+      <created>1640412433904</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1640412433904</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added comic 7" />
     <MESSAGE value="metadata test" />
     <MESSAGE value="meta add header png" />
     <MESSAGE value="theme color" />
@@ -345,6 +351,7 @@
     <MESSAGE value="test fix" />
     <MESSAGE value="relativity :(" />
     <MESSAGE value="got rid of margins" />
-    <option name="LAST_COMMIT_MESSAGE" value="got rid of margins" />
+    <MESSAGE value="fixed the stupid page margins. oh how i hate you, html." />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed the stupid page margins. oh how i hate you, html." />
   </component>
 </project>
