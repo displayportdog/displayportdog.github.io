@@ -15,6 +15,14 @@
     <style>
 
         @import url('https://fonts.googleapis.com/css?family=Inter');
+        #page-container {
+            position: relative;
+            min-height: 100vh;
+        }
+
+        #content-wrap {
+            padding-bottom: 30vh;    /* Footer height */
+        }
 
         img {
             width: 20%;
@@ -204,7 +212,8 @@
          }
 
     </style>
-
+    <div id="page-container">
+        <div id="content-wrap">
     <div class="header">
         <a href="index.html" class="btn homeButton" style="display:inline-block;text-decoration:none;">
             <i>the dpblog</i>
@@ -229,12 +238,14 @@
         <h1>I said take the <i>third</i> left! [404]</h1>
         <p>The page you're trying to access either doesn't exist or has been moved, modified or deleted.</p>
     </div>
+        </div>
     <footer>
         <div class="footSoc">
             <p><b>Website lovingly yet painfully crafted by dpdog#0001</b><br>@displayportdog [Twitter]<br>@displayportdog [Instagram]<br>/u/dp_dog [Reddit]</p>
 
         </div>
     </footer>
+    </div>
     <meta name="theme-color" content="#ef4444" />
     <style>
         body {
