@@ -1,22 +1,59 @@
 <!DOCTYPE html>
 <html>
+<meta property="og:image" content="https://dpdog.net/comics/header.jpg">
+<meta property="og:title" content="dpdog.net, the web's finest">
+<meta property="og:description" content="I have very little motivation left.">
+<meta name="theme-color" content="#055ab0">
+
+
+
 <head>
-    <meta property="og:image" content="https://dpdog.net/favicon.jpg">
-    <meta property="og:title" content="Jenson's complete command list!">
-    <meta property="og:description" content="Explore what Jenson can do, and get familiar with his command syntaxes!">
-    <title>Jenson | dpdog.net</title>
-    <meta name="theme-color" content="#be0707">
+    <link rel="stylesheet" href="https://use.typekit.net/ugg4juj.css">
+
+    <title>Home | dpdog.net</title>
     <link rel="icon" type="image/png" href="/favicon.png"/>
     <style>
 
         @import url('https://fonts.googleapis.com/css?family=Inter');
-        body{overflow-x: hidden;}
+
         img {
             width: 20%;
             height: 20%;
             object-fit: contain;
         }
 
+        body {
+            overflow-x: hidden;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding-left: 5vw;
+            margin-left: -4vw;
+            margin-right: -4vw;
+            overflow: hidden;
+            background-color: #e2e2e2;
+        }
+
+        li {
+            display: inline-grid;
+            font-family: Arvo;
+            font-size:3vmin;
+            overflow: hidden;
+        }
+        li a {
+            display: block;
+            color: rgba(20, 20, 20, 1);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            overflow: hidden;
+        }
+        li a:hover {
+            background-color: #c2c2c2;
+            overflow: hidden;
+        }
 
 
         @font-face {
@@ -43,42 +80,65 @@
         }
 
         .header {
-            background: #be0707;
+            background-image: linear-gradient(72deg, #eb4242, #c00b41);
             margin-top: -2vh;
             margin-left: -2vw;
             margin-right: -2vw;
 
+            border-color: #565656;
             padding-top: 2%;
-            padding-left: 5%;
+            padding-left: 4vw;
             padding-bottom: 0.4%;
-
+            border-radius: 0px;
 
             color: white;
             font-size: 4vmin;
             text-align: -moz-left;
             font-weight: 400;
-            font-family: 'Arvo', serif;
+            font-family: 'arvo', sans-serif;
 
         }
 
-        .header2 {
-            margin: 50px;
-            padding: 60px;
-            text-align: right;
-            background: #2b2b2b;
-            color: white;
-            font-size: 4vmin;
-            font-family: 'Inter', serif;
-            border-radius: 15px 15px 15px 15px;
+        .writingBox {
+            margin: 2vmin;
+            padding: 4vmin;
+            text-align: left;
+            background: rgba(226, 226, 226, 0);
+            color: rgb(63, 56, 56);
+            font-size: 3vmin;
+            font-family: brother-1816, sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            border-radius: 0px;
+
+
+        }
+
+        .infoBox {
+            margin: 3vmin;
+            padding: 1vmin 3vmin;
+            text-align: left;
+            background: rgba(132, 241, 87, 20%);
+            border: 0.4vmin solid rgb(37, 113, 6);
+            color: rgb(63, 56, 56);
+            font-size: 2.5vmin;
+            font-family: brother-1816, sans-serif;
+            font-weight: 400;
+            line-height: 1vmin;
+            font-style: normal;
+            border-radius: 2vmin;
+
+
         }
 
         a.btn {
 
-            background-color: inherit;
+
 
 
         }
         .comicButton{
+            background-color: #3b3b3b;
             padding: 2vw 2vmin;
             border-radius: 7px;
             font-family: Arvo;
@@ -86,7 +146,7 @@
             font-style: italic;
             font-size: 4.8vmin;
             cursor: pointer;
-            border: 2px solid #2b2b2b;
+            border: 2px solid #565656;
             display: inline-block;
             align-items: center;
             text-align: right;
@@ -96,16 +156,17 @@
         .homeButton{
             padding-top: 4%;
             border-radius: 0px;
-            font-family: Arvo;
-            font-weight: bold;
-            font-style: italic;
-            font-size: 6.4vmin;
+            font-family: brother-1816-printed, sans-serif;
+            font-weight: 700;
+            font-style: normal;
+
+            font-size: 10vmin;
             cursor: pointer;
             border: none;
             display: inline-block;
             align-items: center;
             text-align: right;
-            color: white;
+            color: rgba(255, 255, 255, 1);
         }
 
         /* On mouse-over */
@@ -113,7 +174,7 @@
 
         }
 
-        .comicButton {color: #ffffff;
+        .comicButton:hover {color: #ffffff;
             background: #282828;
             border: 2px solid #ffffff;}
 
@@ -123,7 +184,7 @@
 
             color: white;
         }.footSoc {
-             background: #2b2b2b;
+             background: #f1f1f1;
              margin-bottom: -2vh;
              margin-left: -2vw;
              margin-right: -2vw;
@@ -131,10 +192,10 @@
              padding-top: 2%;
              padding-left: 5%;
              padding-bottom: 0.4%;
+             border-top: 5px solid #bbbbbb;
 
-
-             color: white;
-             font-size: 30px;
+             color: rgba(0, 0, 0, 0.91);
+             font-size: 3vmin;
              text-align: -moz-left;
              font-weight: 400;
              font-family: 'Arvo', serif;
@@ -144,17 +205,21 @@
     </style>
 
     <div class="header">
-        <a href="../webcomics/index.html" class="btn homeButton" style="display:inline-block;text-decoration:none;">
-            <i>dpdog.net</i>
+        <a href="/index.html" class="btn homeButton" style="display:inline-block;text-decoration:none;">
+            <i>the dpblog</i>
         </a>
-        <p><i>I have very little motivation left.</i></p>
+        <p><i></i></p>
     </div>
-
-    <div class="header2">
-        <!-- <a href="posts/comic1.posts">comic1</a> -->
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#about">About</a></li>
+    </ul>
+    <div class="writingBox">
         <h1>Here are some things that Jenson can do:</h1>
         <h2>help</h2>
-        <p>Display all available commands.</p>
+        <p>Display all available commands. Probably how you ended up here.</p>
         <h3>gm, ga, ge, gn</h3>
         <p>Greetings and farewells!</p>
         <h3>sprint TIME{h|m|s} [MESSAGE]</h3>
@@ -185,16 +250,12 @@
         <p>Give a cookie!</p>
         <h3>hug</h3>
         <p>Everyone deserves love!</p>
-        <h3>departures CRS</h3>
-        <p>Gets outbound services via NRE</p>
+        <h3>bday, bday-set, bday-next</h3>
+        <p>Birthday related commands! Set your birthday, and see the next ten upcoming.</p>
         <h1>     </h1>
         <h2>On AO3 Link Detection</h2>
         <p>At the moment, Jenson loads your shared story's webpage, grabs the relevant data, and packages it up all nice and neat for you. This is a really bodged together feature, so it would be appreciated if any feedback were forwarded on to me.</p>
         <h1>     </h1>
-        <h3>Want to play around with Jenson, or add him to your server?</h3>
-        <small>Unfortunately, Jenson is currently a small project exclusive to one public server, but if you're interested, feel free to message me.</small>
-
-        <p> </p>
     </div>
     <footer>
         <div class="footSoc">
@@ -202,10 +263,10 @@
 
         </div>
     </footer>
-    <meta name="theme-color" content="#999999" />
+    <meta name="theme-color" content="#055ab0" />
     <style>
         body {
-            background-color: #202020
+            background-color: rgba(194, 177, 154, 0.19)
         }
     </style>
 </head>
