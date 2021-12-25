@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jenson/commands.html" beforeDir="false" afterPath="$PROJECT_DIR$/jenson/commands.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +69,7 @@
       <workItem from="1636249113827" duration="3326000" />
       <workItem from="1636322436797" duration="3550000" />
       <workItem from="1636397369539" duration="996000" />
-      <workItem from="1640398083257" duration="13242000" />
+      <workItem from="1640398083257" duration="14447000" />
     </task>
     <task id="LOCAL-00001" summary="j">
       <created>1636203566322</created>
@@ -320,15 +323,27 @@
       <option name="project" value="LOCAL" />
       <updated>1640412433904</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="made infobox look better">
+      <created>1640412540508</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1640412540508</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fixed 404">
+      <created>1640412762691</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1640412762691</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="metadata test" />
-    <MESSAGE value="meta add header png" />
     <MESSAGE value="theme color" />
     <MESSAGE value="404 page" />
     <MESSAGE value="d" />
@@ -352,6 +367,8 @@
     <MESSAGE value="relativity :(" />
     <MESSAGE value="got rid of margins" />
     <MESSAGE value="fixed the stupid page margins. oh how i hate you, html." />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed the stupid page margins. oh how i hate you, html." />
+    <MESSAGE value="made infobox look better" />
+    <MESSAGE value="fixed 404" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed 404" />
   </component>
 </project>
