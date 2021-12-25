@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-11-14/Pastries-and-Flowers.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/posts/2021-11-14/Pastries-and-Flowers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <workItem from="1636249113827" duration="3326000" />
       <workItem from="1636322436797" duration="3550000" />
       <workItem from="1636397369539" duration="996000" />
-      <workItem from="1640398083257" duration="21161000" />
+      <workItem from="1640398083257" duration="22466000" />
     </task>
     <task id="LOCAL-00001" summary="j">
       <created>1636203566322</created>
@@ -398,14 +398,20 @@
       <option name="project" value="LOCAL" />
       <updated>1640421258287</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="added link">
+      <created>1640421404986</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1640421404986</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added comic 8" />
     <MESSAGE value="added comic 8t54tge" />
     <MESSAGE value="moved to /webcomics/" />
     <MESSAGE value="fixed directories" />
@@ -430,6 +436,7 @@
     <MESSAGE value="updates to meta" />
     <MESSAGE value="updated content main page" />
     <MESSAGE value="added test post" />
-    <option name="LAST_COMMIT_MESSAGE" value="added test post" />
+    <MESSAGE value="added link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added link" />
   </component>
 </project>
