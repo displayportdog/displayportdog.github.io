@@ -65,7 +65,7 @@
       <workItem from="1636249113827" duration="3326000" />
       <workItem from="1636322436797" duration="3550000" />
       <workItem from="1636397369539" duration="996000" />
-      <workItem from="1640398083257" duration="3688000" />
+      <workItem from="1640398083257" duration="3822000" />
     </task>
     <task id="LOCAL-00001" summary="j">
       <created>1636203566322</created>
@@ -228,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640401473333</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="theme colour adjust">
+      <created>1640401818249</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1640401818249</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +256,7 @@
     <MESSAGE value="fixed directories" />
     <MESSAGE value="moved to webcomics" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="theme colour adjust" />
+    <option name="LAST_COMMIT_MESSAGE" value="theme colour adjust" />
   </component>
 </project>
