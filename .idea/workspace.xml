@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="ganalytics to jenson">
+    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="jenson command update">
+      <change afterPath="$PROJECT_DIR$/discordance/moderation/commands.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discordance/moderation/documentation/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jenson/commands.html" beforeDir="false" afterPath="$PROJECT_DIR$/jenson/commands.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/about" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/discordance/moderation/documentation" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -55,12 +56,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\documentation" />
+      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation" />
       <recent name="D:\github repos\displayportdog.github.io\about" />
       <recent name="D:\github repos\displayportdog.github.io\posts" />
       <recent name="D:\github repos\displayportdog.github.io" />
-      <recent name="D:\github repos\displayportdog.github.io\html" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\documentation" />
+      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation" />
       <recent name="D:\github repos\displayportdog.github.io" />
       <recent name="D:\github repos\displayportdog.github.io\jenson" />
       <recent name="D:\github repos\displayportdog.github.io\webcomics" />
@@ -83,14 +87,7 @@
       <workItem from="1640398083257" duration="28520000" />
       <workItem from="1640480626782" duration="47000" />
       <workItem from="1640480692683" duration="69000" />
-      <workItem from="1640556212755" duration="1088000" />
-    </task>
-    <task id="LOCAL-00004" summary="metadata test">
-      <created>1636250573715</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1636250573715</updated>
+      <workItem from="1640556212755" duration="4063000" />
     </task>
     <task id="LOCAL-00005" summary="meta add header png">
       <created>1636250712602</created>
@@ -428,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640480743941</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="jenson command update">
+      <created>1640557330475</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1640557330475</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +450,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="moved to webcomics" />
     <MESSAGE value="test" />
     <MESSAGE value="theme colour adjust" />
     <MESSAGE value="fix scaling for mobile" />
@@ -471,6 +474,7 @@
     <MESSAGE value="ganalytics" />
     <MESSAGE value="analytics added" />
     <MESSAGE value="ganalytics to jenson" />
-    <option name="LAST_COMMIT_MESSAGE" value="ganalytics to jenson" />
+    <MESSAGE value="jenson command update" />
+    <option name="LAST_COMMIT_MESSAGE" value="jenson command update" />
   </component>
 </project>
