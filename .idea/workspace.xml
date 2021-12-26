@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-11-14/Pastries-and-Flowers.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/posts/2021-11-14/Pastries-and-Flowers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webcomics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webcomics/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="ganalytics to jenson" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/about" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -46,11 +41,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github repos\displayportdog.github.io\about" />
       <recent name="D:\github repos\displayportdog.github.io\posts" />
       <recent name="D:\github repos\displayportdog.github.io" />
       <recent name="D:\github repos\displayportdog.github.io\html" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github repos\displayportdog.github.io" />
       <recent name="D:\github repos\displayportdog.github.io\jenson" />
       <recent name="D:\github repos\displayportdog.github.io\webcomics" />
     </key>
@@ -69,21 +66,8 @@
       <workItem from="1636249113827" duration="3326000" />
       <workItem from="1636322436797" duration="3550000" />
       <workItem from="1636397369539" duration="996000" />
-      <workItem from="1640398083257" duration="23184000" />
-    </task>
-    <task id="LOCAL-00001" summary="j">
-      <created>1636203566322</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1636203566322</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added comic 7">
-      <created>1636249575165</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1636249575165</updated>
+      <workItem from="1640398083257" duration="28520000" />
+      <workItem from="1640480626782" duration="47000" />
     </task>
     <task id="LOCAL-00003" summary="Added comic 7">
       <created>1636249674014</created>
@@ -414,15 +398,27 @@
       <option name="project" value="LOCAL" />
       <updated>1640453792986</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="analytics added">
+      <created>1640454516117</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1640454516118</updated>
+    </task>
+    <task id="LOCAL-00051" summary="ganalytics to jenson">
+      <created>1640454635852</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1640454635852</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="moved to /webcomics/" />
-    <MESSAGE value="fixed directories" />
     <MESSAGE value="moved to webcomics" />
     <MESSAGE value="test" />
     <MESSAGE value="theme colour adjust" />
@@ -446,6 +442,8 @@
     <MESSAGE value="added test post" />
     <MESSAGE value="added link" />
     <MESSAGE value="ganalytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="ganalytics" />
+    <MESSAGE value="analytics added" />
+    <MESSAGE value="ganalytics to jenson" />
+    <option name="LAST_COMMIT_MESSAGE" value="ganalytics to jenson" />
   </component>
 </project>
