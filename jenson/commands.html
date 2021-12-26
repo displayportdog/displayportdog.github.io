@@ -247,37 +247,51 @@
         <h2>help</h2>
         <p>Display all available commands. Probably how you ended up here.</p>
         <h3>gm, ga, ge, gn</h3>
-        <p>Greetings and farewells!</p>
-        <h3>sprint TIME{h|m|s} [MESSAGE]</h3>
-        <p>Set a timer for the duration specified, then, once the timer is up, repeat the message appended onto the timer.</p>
-        <h3>whois [USER]</h3>
-        <p>Get info on the tagged user!</p>
+        <p>Greetings and farewells! Jenson has a bunch of prefabricated messages, one of which will be randomly selected and sent when you use this command.</p>
+        <h3>sprint</h3>
+        <p>This command is essentially a timer - jenson supports a duration in seconds, minutes, or hours, for example '!sprint 5h' or '!sprint 2m' will run for five hours or two minutes respectively. Decimal values are supported, albeit not recommended. You can optionally append a message to the end of your timer (e.g. '!sprint 2h Don't leave the oven on, @dpdog!', but remember to tag yourself again.</p>
+        <h3>whois</h3>
+        <p>This is one of the first commands ever implemented, and so is due an update. You can tag a user to get basic info on them. Use it like '!whois @dpdog'</p>
         <h3>guildinfo</h3>
-        <p>Get information about the current guild!</p>
+        <p>Get information about the current guild! This doesn't need or even accept any arguments.</p>
         <h3>meow/woof/screech</h3>
-        <p>Cat, dog and fox pictures, for your viewing pleasure!</p>
-        <h3>gif QUERY</h3>
-        <p>Search for GIFs!</p>
-        <h3>define/urban/thesaurise QUERY</h3>
-        <p>Searches the dictionary/urban dictionary/thesaurus for your word/phrase.</p>
-        <h3>lvl/leaderboard</h3>
-        <p>XP related commands - check your server level, as well as the server's top members.</p>
+        <p>This one grabs a random cat (!meow), dog (!woof), or fox (!screech) picture. They're all cute, but they're not mine, unfortunately.</p>
+        <h3>gif</h3>
+        <p>This one just searches for gifs. '!gif sad'. Go wild.</p>
+        <h3>define</h3>
+        <p>Defines your word, and gives you a bunch of synonyms. Doesn't really work too well with conjugated verbs, but will  still give you a cambridge link. '!define word'</p>
+        <h3>synonymise</h3>
+        <p>Shows synonyms for your word. Exactly the same as define, just a little bit quicker if you don't want a definition.</p>
+        <h3>urban</h3>
+        <p>Defines your word, but on urban dictionary. 98% chance of something weird or gross coming out of that one - not my fault!</p>
+        <h3>lvl</h3>
+        <p>Shows your current level in a little level card. Cute! Tag other users to get theirs - e.g. '!lvl @dpdog'</p>
+        <h3>leaderboard</h3>
+        <p>Shows the server XP leaderboard. Will display top 20 by default, add a number on the end to go through pages.</p>
         <h3>coinflip</h3>
-        <p>Flip a coin!</p>
-        <h3>choose OPTION1, OPTION2, [OPTION...]</h3>
-        <p>Choose out of a list of options.</p>
-        <h3>poll QUESTION | [OPTION1] | [OPTION2] | [OPTION...]</h3>
-        <p>Create a poll!</p>
-        <h3>yeet/yeetsleep USER</h3>
-        <p>Send a user to be productive/sleep.</p>
+        <p>Flip a pound coin! Returns heads, tails, or if you're very unlucky, the coin's edge.</p>
+        <h3>choose/roll</h3>
+        <p>This one requires arguments - it picks an item out of a list of items. For example '!choose red, green, blue, yellow' could return red, but also any of the other three options. The neat part is you don't know which one it'll spit out.</p>
+        <h3>poll</h3>
+        <p>Create a poll! You can simply pose a yes or no question (e.g. '!poll Movie night tonight?') or add options (e.g. '!poll Movie night? | tonight | wednesday | thursday | not feeling it').</p>
+        <h3>yeet</h3>
+        <p>Send a user to be productive. Sends a prefabricated embed. '!yeet @dpdog'</p>
+        <h3>yeetsleep</h3>
+        <p>Force your friends to sleep! It's being cruel to be kind, isn't it? '!yeetsleep @dpdog'</p>
         <h3>prompt</h3>
-        <p>Get inspired!</p>
+        <p>Get inspired! Gets a random prompt from /r/writingprompts.</p>
         <h3>cookie</h3>
-        <p>Give a cookie!</p>
+        <p>Gives a virtual cookie to the tagged user. This isn't tallied, it's just fun. '!cookie @dpdog'</p>
         <h3>hug</h3>
-        <p>Everyone deserves love!</p>
-        <h3>bday, bday-set, bday-next</h3>
-        <p>Birthday related commands! Set your birthday, and see the next ten upcoming.</p>
+        <p>Everyone deserves love! Hug the recipient. This is tallied, and your hug counter will increase each time! '!hug @dpdog'</p>
+        <h3>bday</h3>
+        <p>Displays your birthday, as far as the bot knows, and tells you if it's today (though I think you should really know)</p>
+        <h3>bday-set</h3>
+        <p>Set your birthday. You should include the timezone that your country is in on your birthday, as a difference from UTC. e.g. 'bday-set 04/10 +1' would set your birthday to the 4th of October, in UTC+1 (UK Daylight Savings)</p>
+        <h3>bday-upcoming</h3>
+        <p>Show the next ten upcoming birthdays.</p>
+        <h3>suggest</h3>
+        <p>Suggest something! e.g. '!suggest memes channel'</p>
         <h1>     </h1>
         <h2>On AO3 Link Detection</h2>
         <p>At the moment, Jenson loads your shared story's webpage, grabs the relevant data, and packages it up all nice and neat for you. This is a really bodged together feature, so it would be appreciated if any feedback were forwarded on to me.</p>
