@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/fc92a9ab43fba87d24a3ca1454be2da9ca1dee41/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/#accdbf22b444fc72d50d21483335e5a4b3e3df89/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discordance/moderation/#accdbf22b444fc72d50d21483335e5a4b3e3df89.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discordance/moderation/#accdbf22b444fc72d50d21483335e5a4b3e3df89/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discordance/moderation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/discordance/moderation/documentation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/discordance/moderation" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -54,18 +57,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\documentation" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation" />
+      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\documentation" />
       <recent name="D:\github repos\displayportdog.github.io\about" />
       <recent name="D:\github repos\displayportdog.github.io\posts" />
       <recent name="D:\github repos\displayportdog.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\fc92a9ab43fba87d24a3ca1454be2da9ca1dee41" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\documentation" />
       <recent name="D:\github repos\displayportdog.github.io" />
-      <recent name="D:\github repos\displayportdog.github.io\jenson" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,21 +88,7 @@
       <workItem from="1640398083257" duration="28520000" />
       <workItem from="1640480626782" duration="47000" />
       <workItem from="1640480692683" duration="69000" />
-      <workItem from="1640556212755" duration="4429000" />
-    </task>
-    <task id="LOCAL-00006" summary="meta add header png">
-      <created>1636250960044</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1636250960044</updated>
-    </task>
-    <task id="LOCAL-00007" summary="meta add header png">
-      <created>1636251415086</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1636251415086</updated>
+      <workItem from="1640556212755" duration="5432000" />
     </task>
     <task id="LOCAL-00008" summary="meta add header png">
       <created>1636251627114</created>
@@ -430,7 +419,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640560612934</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="test">
+      <created>1640560741226</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1640560741226</updated>
+    </task>
+    <task id="LOCAL-00056" summary="test">
+      <created>1640561033145</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1640561033145</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
