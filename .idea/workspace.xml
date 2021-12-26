@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="jenson command update">
-      <change afterPath="$PROJECT_DIR$/discordance/moderation/commands.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discordance/moderation/documentation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/discordance/moderation/fc92a9ab43fba87d24a3ca1454be2da9ca1dee41/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/#accdbf22b444fc72d50d21483335e5a4b3e3df89/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +61,11 @@
       <recent name="D:\github repos\displayportdog.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\documentation" />
+      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\fc92a9ab43fba87d24a3ca1454be2da9ca1dee41" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation" />
+      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\documentation" />
       <recent name="D:\github repos\displayportdog.github.io" />
       <recent name="D:\github repos\displayportdog.github.io\jenson" />
-      <recent name="D:\github repos\displayportdog.github.io\webcomics" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -87,14 +85,7 @@
       <workItem from="1640398083257" duration="28520000" />
       <workItem from="1640480626782" duration="47000" />
       <workItem from="1640480692683" duration="69000" />
-      <workItem from="1640556212755" duration="4063000" />
-    </task>
-    <task id="LOCAL-00005" summary="meta add header png">
-      <created>1636250712602</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1636250712602</updated>
+      <workItem from="1640556212755" duration="4429000" />
     </task>
     <task id="LOCAL-00006" summary="meta add header png">
       <created>1636250960044</created>
@@ -432,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640557330475</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="test">
+      <created>1640560612934</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1640560612934</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,7 +448,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
     <MESSAGE value="theme colour adjust" />
     <MESSAGE value="fix scaling for mobile" />
     <MESSAGE value="commands page fixed" />
@@ -475,6 +472,7 @@
     <MESSAGE value="analytics added" />
     <MESSAGE value="ganalytics to jenson" />
     <MESSAGE value="jenson command update" />
-    <option name="LAST_COMMIT_MESSAGE" value="jenson command update" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
