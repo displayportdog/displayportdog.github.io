@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <meta property="og:image" content="https://dpdog.net/comics/header.jpg">
-<meta property="og:title" content="The dpblog! :)">
-<meta property="og:description" content="The inner workings of my mind...">
+<meta property="og:title" content="Jenson's command list - but beefier">
+<meta property="og:description" content="Scary.">
 <meta name="theme-color" content="#ef4444">
 
 
@@ -234,6 +234,28 @@
 
          }
 
+        table, th, td {
+            border: 0.4vmin solid #c7c0c1;
+            border-collapse: collapse;
+            padding: 1.3vmin;
+            background-color: rgb(232, 230, 226)
+        }
+        table {
+            min-width: 100%;
+        }
+        th{
+
+        }.notWide{
+            max-width: 0px;
+                 }
+         .medium{
+             min-width: 30%;
+             max-width: 50%;
+         }
+         .huge{
+             min-width:50%;
+         }
+
     </style>
     <div id="page-container">
         <div id="content-wrap">
@@ -252,18 +274,46 @@
                 <li><a href="https://www.dpdog.net/about/">About me</a></li>
             </ul>
 
-            <div class="infoBox">
-                <h3><span style="font-weight:normal">Hey there, looking for </span>Jenson's command list?</h3>
-                <p>That's <a href="./jenson/commands/">right here</a>! </p>
-            </div>
             <div class="writingBox">
-                <h1>Welcome!</h1>
-                <p>It's nice to have a little place where I can put all my stuff. I'll be mostly rambling about random stuff on here, so feel free to take what I say with a pinch of salt.</p>
-                <h2>Recent Posts</h2>
-                <a href="/blog/posts/2021-11-14/Pastries-and-Flowers.html" class="btn comicButton" style="display:inline-block;text-decoration:none;">
-                    Pastries and Flowers <br>
-                    <small>dpdog  &#8226  14/11/2021  &#8226  ~700 words</small>
-                </a>
+                <h3>Jenson has been developed with the intention of being as straight-forward as possible.</h3>
+                <p>Unfortunately, however, this isn't always the case. As commands are added and updated, things tend to get a bit messy, so if Jenson's behaviour has you stumped, you should be able to figure out what's going on through here.</p>
+                <p>If you ever have any ideas on how Jenson could be improved, please put it in <b>#engineers-comm</b>, and I'll do my best to implement your feedback.</p>
+
+                <h1>The Docs&trade;</h1>
+                <table>
+                    <tr>
+                        <th class="notWide">Command</th>
+                        <th class="huge">Brief Description</th>
+                        <th class="medium">Relevant page(s)</th>
+                    </tr>
+                    <tr>
+                        <td>!help</td>
+                        <td>Default help command. Links the user to a page with all of Jenson's default commands.</td>
+                        <td><a href="commands/help.html">help</a></td>
+                    </tr>
+                    <tr>
+                        <td>!gm</td>
+                        <td>Greeting command. Short for Good Morning.</td>
+                        <td><a href="commands/greetings.html">greetings</a></td>
+                    </tr>
+                    <tr>
+                        <td>!ga</td>
+                        <td>Greeting command. Short for Good Afternoon.</td>
+                        <td><a href="commands/greetings.html">greetings</a></td>
+                    </tr>
+                    <tr>
+                        <td>!ge</td>
+                        <td>Greeting command. Short for Good Evening.</td>
+                        <td><a href="commands/greetings.html">greetings</a></td>
+                    </tr>
+                    <tr>
+                        <td>!gn</td>
+                        <td>Greeting command. Short for Good Night.</td>
+                        <td><a href="commands/greetings.html">greetings</a></td>
+                    </tr>
+                </table>
+
+                <small><br><i>Commands missing? Shoot me a message!</i></small>
             </div>
 
 

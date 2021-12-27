@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/greetings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/randomiser-commands.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/#accdbf22b444fc72d50d21483335e5a4b3e3df89.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/#accdbf22b444fc72d50d21483335e5a4b3e3df89/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discordance/moderation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discordance/moderation/testfle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,36 +40,40 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="20WCfDCEbHba4TGnf09IlLqxoHk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/discordance/moderation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk\commands" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\documentation" />
       <recent name="D:\github repos\displayportdog.github.io\about" />
       <recent name="D:\github repos\displayportdog.github.io\posts" />
-      <recent name="D:\github repos\displayportdog.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\fc92a9ab43fba87d24a3ca1454be2da9ca1dee41" />
-      <recent name="D:\github repos\displayportdog.github.io\discordance\moderation" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\documentation" />
       <recent name="D:\github repos\displayportdog.github.io" />
     </key>
@@ -88,14 +95,8 @@
       <workItem from="1640398083257" duration="28520000" />
       <workItem from="1640480626782" duration="47000" />
       <workItem from="1640480692683" duration="69000" />
-      <workItem from="1640556212755" duration="5432000" />
-    </task>
-    <task id="LOCAL-00008" summary="meta add header png">
-      <created>1636251627114</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1636251627114</updated>
+      <workItem from="1640556212755" duration="9286000" />
+      <workItem from="1640567683470" duration="41000" />
     </task>
     <task id="LOCAL-00009" summary="theme color">
       <created>1636251768857</created>
@@ -433,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640561033145</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="test">
+      <created>1640561827313</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1640561827313</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,6 +459,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="theme colour adjust" />
     <MESSAGE value="fix scaling for mobile" />
     <MESSAGE value="commands page fixed" />
