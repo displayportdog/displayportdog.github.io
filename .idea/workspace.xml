@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="woah! serif!">
       <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,21 +90,7 @@
       <workItem from="1640480626782" duration="47000" />
       <workItem from="1640480692683" duration="69000" />
       <workItem from="1640556212755" duration="9286000" />
-      <workItem from="1640567683470" duration="12378000" />
-    </task>
-    <task id="LOCAL-00012" summary="404 page">
-      <created>1636323122481</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1636323122481</updated>
-    </task>
-    <task id="LOCAL-00013" summary="404 page">
-      <created>1636323157287</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1636323157287</updated>
+      <workItem from="1640567683470" duration="13155000" />
     </task>
     <task id="LOCAL-00014" summary="d">
       <created>1636323293948</created>
@@ -438,7 +421,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640603453780</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="woah! serif!">
+      <created>1640610386530</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1640610386530</updated>
+    </task>
+    <task id="LOCAL-00062" summary="woah! serif!">
+      <created>1640610399575</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1640610399575</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,7 +454,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="theme colour adjust" />
     <MESSAGE value="fix scaling for mobile" />
     <MESSAGE value="commands page fixed" />
     <MESSAGE value="theme fix" />
@@ -482,6 +478,7 @@
     <MESSAGE value="ganalytics to jenson" />
     <MESSAGE value="jenson command update" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="woah! serif!" />
+    <option name="LAST_COMMIT_MESSAGE" value="woah! serif!" />
   </component>
 </project>
