@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <meta property="og:image" content="https://dpdog.net/comics/header.jpg">
-<meta property="og:title" content="The dpblog! :)">
-<meta property="og:description" content="The inner workings of my mind...">
+<meta property="og:title" content="Jenson's command list - but beefier">
+<meta property="og:description" content="Scary.">
 <meta name="theme-color" content="#ef4444">
 
 
@@ -17,9 +17,10 @@
 
         gtag('config', 'G-80N05TT27F');
     </script>
+
     <link rel="stylesheet" href="https://use.typekit.net/ugg4juj.css">
 
-    <title>Posts | dpdog.net</title>
+    <title>Home | dpdog.net</title>
     <link rel="icon" type="image/png" href="/favicon.png"/>
     <style>
 
@@ -122,7 +123,10 @@
         }
 
         .writingBox {
-            margin: -5vmin 2vmin -4vh;
+            margin-top: 0;
+            margin-bottom: 2vh;
+            margin-right: 2vw;
+            margin-left: 2vw;
             padding: 4vmin;
             text-align: left;
             background: rgba(226, 226, 226, 0);
@@ -133,11 +137,14 @@
             font-style: normal;
             border-radius: 0px;
             overflow: hidden;
+
         }
 
         .infoBox {
+            margin: 6vmin;
+            margin-bottom: 0;
+            margin-bottom: 0;
             padding: 1vmin 3vmin;
-            margin: 6vmin 6vmin 0;
             text-align: left;
             background: rgba(132, 241, 87, 20%);
             border: 0.4vmin solid rgb(37, 113, 6);
@@ -203,7 +210,6 @@
             border: 0.2vw solid #1f1f1f;
         }
 
-
         footer {
             text-align: -moz-left;
             padding: 0px;
@@ -228,6 +234,33 @@
 
          }
 
+        table, th, td {
+            border: 0.4vmin solid #c7c0c1;
+            border-collapse: collapse;
+            padding: 1.3vmin;
+        }
+        table {
+            min-width: 100%;
+            background-color: rgb(232, 230, 226)
+        }
+        th{
+
+        }.notWide{
+             max-width: 0px;
+         }
+        .medium{
+            min-width: 30%;
+            max-width: 50%;
+        }
+        .huge{
+            min-width:50%;
+        }
+        pre{
+            background-color: #00022f;
+            color: lightgray;
+            border-radius: 10px;
+        }
+
     </style>
     <div id="page-container">
         <div id="content-wrap">
@@ -244,16 +277,50 @@
                 <li><a href="https://www.dpdog.net/blog/posts/">Posts</a></li>
                 <li><a href="https://www.dpdog.net/jenson/commands/">Jenson</a></li>
                 <li><a href="https://www.dpdog.net/about/">About me</a></li>
+                <li><a href="https://dpdog.net/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/">Jenson Staff Commands</a></li>
             </ul>
 
             <div class="writingBox">
-                <h1>Latest posts</h1>
-                <a href="/about.html" class="btn comicButton" style="display:inline-block;text-decoration:none;">
-                    About me<br>
-                    <small>dpdog  &#8226  27/12/2021  &#8226  ~250 words (quick read)</small>
-                </a>
-                <!--<p>No posts to show</p>-->
+                <h1>XP & Levelling commands</h1>
+                <p>One of Jenson's primary jobs in Discordance is to keep track of user levels.</p>
+                <p>When a user types for the first time, their user ID (the long string of digits you get when you right-click and hit 'Copy ID') is added to a file beside a number.</p>
+                <p>The number is the 'XP Increment' - the amount of XP that is added onto your total score when a user speaks. To give the levelling system a sense of entropy, this number is randomly generated. By default, it is an integer ranging from 20 - 50 - however this can be altered with modifiers.  </p>
+                <p>Modifiers are objects that tell Jenson how to generate the 'XP Increment'.</p>
+                <p>See the following:
+
+                <h2>!</h2>
+                <br>
+                <h2>Commands used in this section</h2>
+                <table>
+                    <tr>
+                        <th class="notWide">Command</th>
+                        <th class="huge">Brief Description</th>
+                        <th class="medium">Complexity</th>
+                    </tr>
+                    <tr>
+                        <td>!gm</td>
+                        <td>Greeting command. Short for Good Morning.</td>
+                        <td style="background-color: #88ff88;">Easy to use; no arguments</td>
+                    </tr>
+                    <tr>
+                        <td>!ga</td>
+                        <td>Greeting command. Short for Good Afternoon.</td>
+                        <td style="background-color: #88ff88;">Easy to use; no arguments</td>
+                    </tr>
+                    <tr>
+                        <td>!ge</td>
+                        <td>Greeting command. Short for Good Evening.</td>
+                        <td style="background-color: #88ff88;">Easy to use; no arguments</td>
+                    </tr>
+                    <tr>
+                        <td>!gn</td>
+                        <td>Greeting command. Short for Good Night.</td>
+                        <td style="background-color: #88ff88;">Easy to use; no arguments</td>
+                    </tr>
+                </table>
             </div>
+
+
 
         </div>
         <footer>
@@ -262,7 +329,6 @@
 
             </div>
         </footer>
-
     </div>
     <meta name="theme-color" content="#ef4444" />
     <style>

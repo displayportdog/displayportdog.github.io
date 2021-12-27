@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <meta property="og:image" content="https://dpdog.net/comics/header.jpg">
-<meta property="og:title" content="Jenson's command list - but beefier">
-<meta property="og:description" content="Scary.">
+<meta property="og:title" content="About me - dpdog.net">
+<meta property="og:description" content="Nothing to read here...">
 <meta name="theme-color" content="#ef4444">
 
 
@@ -20,7 +20,7 @@
 
     <link rel="stylesheet" href="https://use.typekit.net/ugg4juj.css">
 
-    <title>Home | dpdog.net</title>
+    <title>About me | dpdog.net</title>
     <link rel="icon" type="image/png" href="/favicon.png"/>
     <style>
 
@@ -37,10 +37,18 @@
         }
 
         img {
-            width: 20%;
-            height: 20%;
             object-fit: contain;
-        }
+            max-width: 65vmax;
+        }.left {
+             float: left;
+             padding: 0 10px 0 0;
+                     max-width: 35vmax;
+                 }
+         .right{
+             float: right;
+             padding: 1vmin 0 0vmin 2vmin;
+             max-width: 35vmax;
+         }
 
         body {
             overflow-y: auto;
@@ -123,28 +131,25 @@
         }
 
         .writingBox {
-            margin-top: 0;
-            margin-bottom: 2vh;
-            margin-right: 2vw;
-            margin-left: 2vw;
+            margin: -5vmin 2vmin 2vmin;
             padding: 4vmin;
-            text-align: left;
+            font-min-size: 100px;
+            text-align: justify;
             background: rgba(226, 226, 226, 0);
             color: rgb(63, 56, 56);
-            font-size: 3vmin;
-            font-family: brother-1816, sans-serif;
+            font-size:calc(11px + 2vmin);
+            font-family: le-monde-livre-classic-byol, serif;
             font-weight: 400;
             font-style: normal;
             border-radius: 0px;
             overflow: hidden;
+            max-width: 65vmax;
 
         }
 
         .infoBox {
-            margin: 6vmin;
-            margin-bottom: 0;
-            margin-bottom: 0;
             padding: 1vmin 3vmin;
+            margin: 6vmin 6vmin 0;
             text-align: left;
             background: rgba(132, 241, 87, 20%);
             border: 0.4vmin solid rgb(37, 113, 6);
@@ -166,22 +171,19 @@
 
         }
         .comicButton{
-            background-color: rgb(220, 216, 209);
-            border: 0.2vw solid #1f1f1f;
+            background-color: #3b3b3b;
             padding: 2vw 2vmin;
-            border-radius: 5px;
-            font-family: brother-1816, sans-serif;
+            border-radius: 7px;
+            font-family: Arvo;
             font-weight: normal;
-            font-style: normal;
+            font-style: italic;
             font-size: 4.8vmin;
             cursor: pointer;
+            border: 2px solid #565656;
             display: inline-block;
             align-items: center;
-            text-align: left;
-            color: #323232;
-            margin: 0;
-            width: 70vw;
-
+            text-align: right;
+            color: white;
         }
 
         .homeButton{
@@ -205,10 +207,9 @@
 
         }
 
-        .comicButton:hover {color: #000000;
-            background-color: rgb(220, 216, 209);
-            border: 0.2vw solid #1f1f1f;
-        }
+        .comicButton:hover {color: #ffffff;
+            background: #282828;
+            border: 2px solid #ffffff;}
 
         footer {
             text-align: -moz-left;
@@ -234,26 +235,12 @@
 
          }
 
-        table, th, td {
-            border: 0.4vmin solid #c7c0c1;
-            border-collapse: collapse;
-            padding: 1.3vmin;
-        }
-        table {
-            min-width: 100%;
-            background-color: rgb(232, 230, 226)
-        }
-        th{
+        p.dropcap:first-letter {
+            color: #3f0d03;
+            float: left;
+            font-size: 15vmin;
+            padding-right: 2vmin;
 
-        }.notWide{
-             max-width: 0px;
-         }
-        .medium{
-            min-width: 30%;
-            max-width: 50%;
-        }
-        .huge{
-            min-width:50%;
         }
 
     </style>
@@ -272,47 +259,22 @@
                 <li><a href="https://www.dpdog.net/blog/posts/">Posts</a></li>
                 <li><a href="https://www.dpdog.net/jenson/commands/">Jenson</a></li>
                 <li><a href="https://www.dpdog.net/about/">About me</a></li>
-                <li><a href="https://dpdog.net/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/">Jenson Staff Commands</a></li>
             </ul>
+            <div class="writingBox" style="margin: auto;">
 
-            <div class="writingBox">
-                <h1>Randomiser commands</h1>
-                <p>A lot of Jenson's commands rely on random number generation (RNG). The issue with RNG is that it can sometimes mess up, or act more predictably than it should.</p>
-                <p>Because Jenson uses already published code, this shouldn't really be an issue. If you get the same thing twice, you probably just rolled the same thing twice.</p>
-                <h2>!</h2>
+                <h1 style ="font-size: 10vmin;margin-bottom: 1vh">Coding Jenson: </h1>
+                <small>dpdog  &#8226  27/12/2021  &#8226  ~0 words</small>
                 <br>
-                <h2>Commands used in this section</h2>
-                <table>
-                    <tr>
-                        <th class="notWide">Command</th>
-                        <th class="huge">Brief Description</th>
-                        <th class="medium">Complexity</th>
-                    </tr>
-                    <tr>
-                        <td>!gm</td>
-                        <td>Greeting command. Short for Good Morning.</td>
-                        <td style="background-color: #88ff88;">Easy to use; no arguments</td>
-                    </tr>
-                    <tr>
-                        <td>!ga</td>
-                        <td>Greeting command. Short for Good Afternoon.</td>
-                        <td style="background-color: #88ff88;">Easy to use; no arguments</td>
-                    </tr>
-                    <tr>
-                        <td>!ge</td>
-                        <td>Greeting command. Short for Good Evening.</td>
-                        <td style="background-color: #88ff88;">Easy to use; no arguments</td>
-                    </tr>
-                    <tr>
-                        <td>!gn</td>
-                        <td>Greeting command. Short for Good Night.</td>
-                        <td style="background-color: #88ff88;">Easy to use; no arguments</td>
-                    </tr>
-                </table>
+
+
+                <img src="/blog/assets/IMG_2870.jpg" class="right"> <p class="dropcap">
+                There are probably millions of unfinished projects out there &#8211; little unpolished creations that, despite their novelty and charm, never got to see the light of day. We&apos;re all guilty of it, aren&apos;t we? How often have you started something, seeking to challenge yourself in the pursuit of new skill and knowledge, only to call it quits a few months, weeks, or even days later?
+                <br><br>I&apos;m thoroughly pleased to say that Jenson has not yet fallen victim to such a fate; tinkering around with some code and being able to instantly get community feedback has been absolutely wonderful for a novice such as myself. Having been able to enjoy my hobby the last few weeks whilst simultaneously providing a service for my favourite community has made me happier than ever, and I want nothing more than to give you an insight into what exactly I&apos;ve been doing this whole time.
+
+
+            </p>
+                <p></p>
             </div>
-
-
-
         </div>
         <footer>
             <div class="footSoc">
@@ -320,6 +282,7 @@
 
             </div>
         </footer>
+
     </div>
     <meta name="theme-color" content="#ef4444" />
     <style>

@@ -38,6 +38,16 @@
 
         img {
             object-fit: contain;
+            max-width: 65vmax;
+        }.left {
+             float: left;
+             padding: 0 10px 0 0;
+             max-width: 30vmax;
+         }
+        .right{
+            float: right;
+            padding: 1vmin 0 0vmin 2vmin;
+            max-width: 30vmax;
         }
 
         body {
@@ -123,15 +133,18 @@
         .writingBox {
             margin: -5vmin 2vmin 2vmin;
             padding: 4vmin;
-            text-align: left;
+            font-min-size: 100px;
+            text-align: justify;
             background: rgba(226, 226, 226, 0);
             color: rgb(63, 56, 56);
-            font-size: 3vmin;
+            font-size:calc(11px + 2vmin);
             font-family: le-monde-livre-classic-byol, serif;
             font-weight: 400;
             font-style: normal;
             border-radius: 0px;
             overflow: hidden;
+            max-width: 65vmax;
+
         }
 
         .infoBox {
@@ -221,6 +234,13 @@
              font-family: 'Arvo', serif;
 
          }
+        p.dropcap:first-letter {
+            color: #3f0d03;
+            float: left;
+            font-size: 15vmin;
+            padding-right: 2vmin;
+
+        }
 
     </style>
     <div id="page-container">
@@ -239,12 +259,19 @@
                 <li><a href="https://www.dpdog.net/jenson/commands/">Jenson</a></li>
                 <li><a href="https://www.dpdog.net/about/">About me</a></li>
             </ul>
-            <div class="writingBox">
+            <div class="writingBox" style="margin: auto;">
 
                 <h1 style ="font-size: 10vmin;margin-bottom: 1vh">About me </h1>
-                <small>dpdog  &#8226  25/12/2021  &#8226  ~0 words</small>
+                <small>dpdog  &#8226  25/12/2021  &#8226  ~250 words (quick read)</small>
                 <br>
 
+                <p class="dropcap">For a while now, I&apos;ve put aside making any sort of place to journal my thoughts. And I cannot stress just how much I regret that &#8211; not because I think that the world could have used the weird and mundane things that come out of my mind, but because now I&apos;ve forgotten those things. What a shame.
+                    <br><br>That&apos;s why I&apos;ve put together this site. I&apos;m no web designer, or writer, or programmer, or actually anything, now that I think of it &#8211; but I still want a little corner of the internet that I can call mine.
+                    <br><br>So here I present to you the dpblog, partly because I have no desire to attach my real name to the silly little ramblings that will undoubtedly slowly appear on here, but mostly because it was a pun, and I like that quite a lot.
+                    <br><br><img src="/blog/assets/underground.jpg" class="right">I&apos;m not terribly active on social media, so if you&apos;re looking to spend hours digging through old tweets, I&apos;m afraid you&apos;ll be as disappointed as I was when England lost the world cup - i.e. You couldn't care less, but will pretend to, because everyone around you seems to.
+                    <br><br>You&apos;ll probably end up seeing snippets of coding or writing, and while I don&apos;t excel at either, I enjoy both, so hopefully the good vibes are enough to keep you here!
+                    <br><br>I also love to photograph anything and everything, so enjoy the mundane cover photos that come with each post.
+                </p>
             </div>
         </div>
         <footer>

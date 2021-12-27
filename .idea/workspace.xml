@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/greetings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/help.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/randomiser-commands.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/assets/IMG_2870.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/posts/2021-12-27/coding-jenson.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/testfle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/randomiser-commands.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/experience.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +71,11 @@
       <recent name="D:\github repos\displayportdog.github.io\posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github repos\displayportdog.github.io\blog\posts\2021-12-27" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\fc92a9ab43fba87d24a3ca1454be2da9ca1dee41" />
       <recent name="D:\github repos\displayportdog.github.io\discordance\moderation\documentation" />
-      <recent name="D:\github repos\displayportdog.github.io" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -96,14 +96,7 @@
       <workItem from="1640480626782" duration="47000" />
       <workItem from="1640480692683" duration="69000" />
       <workItem from="1640556212755" duration="9286000" />
-      <workItem from="1640567683470" duration="41000" />
-    </task>
-    <task id="LOCAL-00009" summary="theme color">
-      <created>1636251768857</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1636251768857</updated>
+      <workItem from="1640567683470" duration="8774000" />
     </task>
     <task id="LOCAL-00010" summary="theme color">
       <created>1636322453710</created>
@@ -441,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640561827313</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="test">
+      <created>1640568034171</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1640568034171</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
