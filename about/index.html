@@ -2,7 +2,7 @@
 <html>
 <meta property="og:image" content="https://dpdog.net/comics/header.jpg">
 <meta property="og:title" content="About me - dpdog.net">
-<meta property="og:description" content="Nothing to read here...">
+<meta property="og:description" content="dpdog • 25/12/2021 • ~250 words (quick read)">
 <meta name="theme-color" content="#ef4444">
 
 
@@ -133,7 +133,6 @@
         .writingBox {
             margin: -5vmin 2vmin 2vmin;
             padding: 4vmin;
-            font-min-size: 100px;
             text-align: justify;
             background: rgba(226, 226, 226, 0);
             color: rgb(63, 56, 56);
@@ -242,6 +241,20 @@
             padding-top: 0;
         }
 
+        button, input[type="submit"], input[type="reset"] {
+            background: none;
+            color: inherit;
+            border: none;
+            padding: 0;
+            font: inherit;
+            cursor: pointer;
+            outline: inherit;
+        }
+        button:focus {
+            opacity: 20%;
+        }
+
+
     </style>
     <div id="page-container">
         <div id="content-wrap">
@@ -261,7 +274,8 @@
             </ul>
             <div class="writingBox" style="margin: auto;">
 
-                <h1 style ="font-size: 10vmin;margin-bottom: 1vh">About me </h1>
+                <h1 style ="font-size: 10vmin;margin-bottom: 1vh">About me <button onclick="copyText()"><img height="32" width="32" src="/blog/assets/share-forward-line.svg" /></button></h1>
+
                 <small>dpdog  &#8226  25/12/2021  &#8226  ~250 words (quick read)</small>
                 <br>
 
@@ -273,6 +287,11 @@
                     <br><br>I also love to photograph anything and everything, so enjoy the mundane cover photos that come with each post.
                 </p>
             </div>
+            <script>
+                function copyText(){
+                    navigator.clipboard.writeText('https://www.dpdog.net/');
+                }
+            </script>
         </div>
         <footer>
             <div class="footSoc">
