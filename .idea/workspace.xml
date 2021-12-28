@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="favicon">
+    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="fixed url">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,14 +93,8 @@
       <workItem from="1640480626782" duration="47000" />
       <workItem from="1640480692683" duration="69000" />
       <workItem from="1640556212755" duration="9286000" />
-      <workItem from="1640567683470" duration="14355000" />
-    </task>
-    <task id="LOCAL-00015" summary="d">
-      <created>1636323673062</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1636323673062</updated>
+      <workItem from="1640567683470" duration="16580000" />
+      <workItem from="1640636188830" duration="3630000" />
     </task>
     <task id="LOCAL-00016" summary="g">
       <created>1636323960932</created>
@@ -435,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640611161440</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="fixed url">
+      <created>1640614493948</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1640614493948</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +458,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="commands page fixed" />
     <MESSAGE value="theme fix" />
     <MESSAGE value="fix name" />
     <MESSAGE value="fix mobile header" />
@@ -479,6 +482,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="woah! serif!" />
     <MESSAGE value="favicon" />
-    <option name="LAST_COMMIT_MESSAGE" value="favicon" />
+    <MESSAGE value="fixed url" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed url" />
   </component>
 </project>
