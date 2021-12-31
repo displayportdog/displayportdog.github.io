@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="external css? uwu">
+    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="url colour fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/article.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/article.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/docs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/docs.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/standard.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/standard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,14 +101,7 @@
       <workItem from="1640816732443" duration="451000" />
       <workItem from="1640845634309" duration="2245000" />
       <workItem from="1640942894277" duration="4893000" />
-      <workItem from="1640951418285" duration="46000" />
-    </task>
-    <task id="LOCAL-00019" summary="added comic 8t54tge">
-      <created>1636397740836</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1636397740836</updated>
+      <workItem from="1640951418285" duration="549000" />
     </task>
     <task id="LOCAL-00020" summary="moved to /webcomics/">
       <created>1640398207695</created>
@@ -445,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640946847096</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="url colour fix">
+      <created>1640951543409</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1640951543409</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +465,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fix mobile header" />
     <MESSAGE value="updated navbar" />
     <MESSAGE value="404 updated" />
     <MESSAGE value="fixed broken footer" />
@@ -489,6 +489,7 @@
     <MESSAGE value="fixed url" />
     <MESSAGE value="buttons" />
     <MESSAGE value="external css? uwu" />
-    <option name="LAST_COMMIT_MESSAGE" value="external css? uwu" />
+    <MESSAGE value="url colour fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="url colour fix" />
   </component>
 </project>

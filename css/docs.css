@@ -10,7 +10,7 @@
 
 }
 
-html {
+html, html[data-theme="light"] {
     --link-colour: rgb(0, 112, 201);
     --main-background-colour: rgba(243,240,235,255);
     --main-text-colour: rgb(63, 56, 56);
