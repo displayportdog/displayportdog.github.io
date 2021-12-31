@@ -1,0 +1,308 @@
+
+@import url('https://fonts.googleapis.com/css?family=Inter');
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+    max-width: 100vw;
+
+}
+
+html {
+    --link-colour: rgb(0, 112, 201);
+    --main-background-colour: rgba(243,240,235,255);
+    --main-text-colour: rgb(63, 56, 56);
+    --footer-border-colour: rgb(192, 191, 188);
+    --footer-text-colour: rgb(63, 56, 56);
+    --footer-back-colour: #f1f1f1;
+    --navbar-back: #e2e2e2;
+    --header-grad: linear-gradient(72deg, #eb4242, #c00b41);
+    --tableback:  rgb(232, 230, 226);
+    --tablewalls: #c7c0c1;
+
+
+}
+
+td.easy{
+    background-color: #88ff88;
+}
+
+td.med{
+    background-color: #ffe788;
+}
+
+td.hard{
+    background-color: #ff8164;
+}
+
+td.spccons{
+    background-color: #ff88f9;
+}
+
+@media (prefers-color-scheme: dark) {
+    html {
+        --link-colour: rgb(93, 197, 239);
+        --main-background-colour: rgb(56, 52, 48);
+        --main-text-colour: rgba(243,240,235,255);
+        --footer-border-colour: rgb(107, 104, 100);
+        --footer-text-colour:  #f1f1f1;
+        --footer-back-colour: #363636;
+        --navbar-back: #4e4e4e;
+        --header-grad: linear-gradient(72deg, #22317c, #350449);
+        --tableback: #333333;
+        --tablewalls: rgb(107, 104, 100);
+    }
+    a.url {
+        color: deepskyblue;
+    }
+    a.url:visited {
+        color: lightblue;
+    }
+
+    td.easy{
+        background-color: #104f10;
+    }
+
+    td.med{
+        background-color: #604f0a;
+    }
+
+    td.hard{
+        background-color: #621a0a;
+    }
+
+    td.spccons{
+        background-color: #41063e;
+    }
+}
+
+
+body {
+    background-color: var(--main-background-colour);
+
+}
+
+#content-wrap {
+    padding-bottom: 30vh;    /* Footer height */
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    object-fit: contain;
+}
+
+body {
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 3vw;
+    margin-left: 0vw;
+    margin-right: 0vw;
+    overflow: hidden;
+    background-color: var(--navbar-back);
+}
+
+li {
+    display: inline-grid;
+    font-family: Arvo;
+    font-size:3vmin;
+    overflow: hidden;
+}
+li a {
+    display: block;
+    color: var(--main-text-colour);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    overflow: hidden;
+}
+li a:hover {
+    background-color: #c2c2c2;
+    overflow: hidden;
+}
+
+
+@font-face {
+    font-family: 'Arvo';
+    src: url('/fonts/Arvo-Regular.ttf');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Arvo';
+    src: url('/fonts/Arvo-Bold.ttf');
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'Arvo';
+    src: url('/fonts/Arvo-Italic.ttf');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Arvo';
+    src: url('/fonts/Arvo-BoldItalic.ttf');
+    font-weight: bold;
+    font-style: italic;
+}
+
+.header {
+    background-image: var(--header-grad);
+    margin-top: 0vh;
+    margin-left: 0vw;
+    margin-right: 0vmax;
+
+    border-color: #565656;
+    padding-top: 2%;
+    padding-left: 4vw;
+    padding-bottom: 0.4%;
+    border-radius: 0px;
+
+    color: white;
+    font-size: 4vmin;
+    text-align: -moz-left;
+    font-weight: 400;
+    font-family: 'arvo', sans-serif;
+
+}
+
+.writingBox {
+    margin: auto;
+    padding: 4vmin;
+    text-align: justify;
+    background: inherit;
+    color: var(--main-text-colour);
+    link-color: var(--link-colour);
+    font-size:calc(11px + 2vmin);
+    font-family: "brother-1816";
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 0px;
+    overflow: hidden;
+    max-width: 85vmax;
+
+}
+
+.infoBox {
+    margin: 6vmin auto auto;
+    padding: 1vmin 3vmin;
+    text-align: left;
+    background: rgba(132, 241, 87, 20%);
+    border: 0.4vmin solid rgb(37, 113, 6);
+    color: var(--main-text-colour);
+    font-size: 2.5vmin;
+    font-family: Arvo, sans-serif;
+    font-weight: 400;
+    line-height: 3vmin;
+    font-style: normal;
+    border-radius: 2vmin;
+    overflow: hidden;
+    max-width: 65vmax;
+
+
+}
+
+a.btn {
+
+
+
+
+}
+.comicButton{
+    background-color: inherit;
+    border-bottom: 0.2vw solid #8c8c8c;
+    padding: 2vw 2vmin;
+    border-radius: 0px;
+    font-family: le-monde-livre-classic-byol, serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 4.8vmin;
+    cursor: pointer;
+    display: inline-block;
+    align-items: center;
+    text-align: left;
+    color: var(--main-text-colour);
+    margin: 0;
+    width: 98%;
+
+}
+
+.homeButton{
+    padding-top: 4%;
+    border-radius: 0px;
+    font-family: brother-1816-printed, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+    font-size: 10vmin;
+    cursor: pointer;
+    border: none;
+    display: inline-block;
+    align-items: center;
+    text-align: right;
+    color: rgba(255, 255, 255, 1);
+}
+
+/* On mouse-over */
+a.btn:hover {
+
+}
+
+.comicButton:hover {color: #000000;
+}
+
+footer {
+    text-align: -moz-left;
+    padding: 0px;
+
+    color: white;
+}.footSoc {
+     background: var(--footer-back-colour);
+     margin-bottom: 0vh;
+     margin-left: 0vw;
+     margin-right: 0vw;
+     display: flex;
+     padding-top: 2%;
+     padding-left: 5%;
+     padding-bottom: 0.4%;
+     border-top: 5px solid var(--footer-border-colour);
+
+     color: var(--footer-text-colour);
+     font-size: 2.5vmin;
+     text-align: -moz-left;
+     font-weight: 400;
+     font-family: 'Arvo', serif;
+
+ }
+
+table, th, td {
+    border: 0.4vmin solid var(--tablewalls);
+    border-collapse: collapse;
+    padding: 1.3vmin;
+    background-color: var(--tableback);
+}
+table {
+    min-width: 100%;
+}
+th{
+
+}.notWide{
+     max-width: 0px;
+ }
+.medium{
+    min-width: 30%;
+    max-width: 50%;
+}
+.huge{
+    min-width:50%;
+}
+
+

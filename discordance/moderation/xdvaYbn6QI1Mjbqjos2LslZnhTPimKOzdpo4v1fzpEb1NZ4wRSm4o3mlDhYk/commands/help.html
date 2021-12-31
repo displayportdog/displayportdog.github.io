@@ -19,243 +19,11 @@
     </script>
 
     <link rel="stylesheet" href="https://use.typekit.net/ugg4juj.css">
+    <link rel="stylesheet" href="/css/docs.css">
 
     <title>Home | dpdog.net</title>
     <link rel="icon" type="image/png" href="/favicon.png"/>
     <style>
-
-        @import url('https://fonts.googleapis.com/css?family=Inter');
-        #page-container {
-            position: relative;
-            min-height: 100vh;
-            max-width: 100vw;
-
-        }
-
-        #content-wrap {
-            padding-bottom: 30vh;    /* Footer height */
-        }
-
-        img {
-            width: 20%;
-            height: 20%;
-            object-fit: contain;
-        }
-
-        body {
-            overflow-y: auto;
-            overflow-x: hidden;
-            padding: 0;
-            margin: 0;
-        }
-
-        ul {
-            list-style-type: none;
-            margin: 0;
-            padding-left: 3vw;
-            margin-left: 0vw;
-            margin-right: 0vw;
-            overflow: hidden;
-            background-color: #e2e2e2;
-        }
-
-        li {
-            display: inline-grid;
-            font-family: Arvo;
-            font-size:3vmin;
-            overflow: hidden;
-        }
-        li a {
-            display: block;
-            color: rgba(20, 20, 20, 1);
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-            overflow: hidden;
-        }
-        li a:hover {
-            background-color: #c2c2c2;
-            overflow: hidden;
-        }
-
-
-        @font-face {
-            font-family: 'Arvo';
-            src: url('/fonts/Arvo-Regular.ttf');
-            font-weight: normal;
-        }
-        @font-face {
-            font-family: 'Arvo';
-            src: url('/fonts/Arvo-Bold.ttf');
-            font-weight: bold;
-        }
-        @font-face {
-            font-family: 'Arvo';
-            src: url('/fonts/Arvo-Italic.ttf');
-            font-weight: normal;
-            font-style: italic;
-        }
-        @font-face {
-            font-family: 'Arvo';
-            src: url('/fonts/Arvo-BoldItalic.ttf');
-            font-weight: bold;
-            font-style: italic;
-        }
-
-        .header {
-            background-image: linear-gradient(72deg, #eb4242, #c00b41);
-            margin-top: 0vh;
-            margin-left: 0vw;
-            margin-right: 0vmax;
-
-            border-color: #565656;
-            padding-top: 2%;
-            padding-left: 4vw;
-            padding-bottom: 0.4%;
-            border-radius: 0px;
-
-            color: white;
-            font-size: 4vmin;
-            text-align: -moz-left;
-            font-weight: 400;
-            font-family: 'arvo', sans-serif;
-
-        }
-
-        .writingBox {
-            margin-top: 0;
-            margin-bottom: 2vh;
-            margin-right: 2vw;
-            margin-left: 2vw;
-            padding: 4vmin;
-            text-align: left;
-            background: rgba(226, 226, 226, 0);
-            color: rgb(63, 56, 56);
-            font-size: 3vmin;
-            font-family: brother-1816, sans-serif;
-            font-weight: 400;
-            font-style: normal;
-            border-radius: 0px;
-            overflow: hidden;
-
-        }
-
-        .infoBox {
-            margin: 6vmin;
-            margin-bottom: 0;
-            margin-bottom: 0;
-            padding: 1vmin 3vmin;
-            text-align: left;
-            background: rgba(132, 241, 87, 20%);
-            border: 0.4vmin solid rgb(37, 113, 6);
-            color: rgb(63, 56, 56);
-            font-size: 2.5vmin;
-            font-family: brother-1816, sans-serif;
-            font-weight: 400;
-            line-height: 3vmin;
-            font-style: normal;
-            border-radius: 2vmin;
-            overflow: hidden;
-
-        }
-
-        a.btn {
-
-
-
-
-        }
-        .comicButton{
-            background-color: rgb(220, 216, 209);
-            border: 0.2vw solid #1f1f1f;
-            padding: 2vw 2vmin;
-            border-radius: 5px;
-            font-family: brother-1816, sans-serif;
-            font-weight: normal;
-            font-style: normal;
-            font-size: 4.8vmin;
-            cursor: pointer;
-            display: inline-block;
-            align-items: center;
-            text-align: left;
-            color: #323232;
-            margin: 0;
-            width: 70vw;
-
-        }
-
-        .homeButton{
-            padding-top: 4%;
-            border-radius: 0px;
-            font-family: brother-1816-printed, sans-serif;
-            font-weight: 700;
-            font-style: normal;
-
-            font-size: 10vmin;
-            cursor: pointer;
-            border: none;
-            display: inline-block;
-            align-items: center;
-            text-align: right;
-            color: rgba(255, 255, 255, 1);
-        }
-
-        /* On mouse-over */
-        a.btn:hover {
-
-        }
-
-        .comicButton:hover {color: #000000;
-            background-color: rgb(220, 216, 209);
-            border: 0.2vw solid #1f1f1f;
-        }
-
-        footer {
-            text-align: -moz-left;
-            padding: 0px;
-
-            color: white;
-        }.footSoc {
-             background: #f1f1f1;
-             margin-bottom: 0vh;
-             margin-left: 0vw;
-             margin-right: 0vw;
-             display: flex;
-             padding-top: 2%;
-             padding-left: 5%;
-             padding-bottom: 0.4%;
-             border-top: 5px solid #bbbbbb;
-
-             color: rgba(0, 0, 0, 0.91);
-             font-size: 2.5vmin;
-             text-align: -moz-left;
-             font-weight: 400;
-             font-family: 'Arvo', serif;
-
-         }
-
-        table, th, td {
-            border: 0.4vmin solid #c7c0c1;
-            border-collapse: collapse;
-            padding: 1.3vmin;
-        }
-        table {
-            min-width: 100%;
-            background-color: rgb(232, 230, 226)
-        }
-        th{
-
-        }.notWide{
-             max-width: 0px;
-         }
-        .medium{
-            min-width: 30%;
-            max-width: 50%;
-        }
-        .huge{
-            min-width:50%;
-        }
-
     </style>
     <div id="page-container">
         <div id="content-wrap">
@@ -283,14 +51,14 @@
                 <h2>Commands used in this section</h2>
                 <table>
                     <tr>
-                        <th class="notWide">Command</th>
+                        <th class="notWide">&#60/&#62</th>
                         <th class="huge">Brief Description</th>
                         <th class="medium">Complexity</th>
                     </tr>
                     <tr>
                         <td>!help</td>
                         <td>Default help command. Links the user to a page with all of Jenson's default commands.</td>
-                        <td style="background-color: #88ff88;">Easy to use; no arguments</td>
+                        <td class="easy">Easy to use; no arguments</td>
                     </tr>
                 </table>
             </div>
@@ -307,9 +75,7 @@
     </div>
     <meta name="theme-color" content="#ef4444" />
     <style>
-        body {
-            background-color: rgba(243,240,235,255)
-        }
+
     </style>
 </head>
 </html>
