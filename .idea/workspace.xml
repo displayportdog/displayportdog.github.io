@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="buttons">
-      <change afterPath="$PROJECT_DIR$/css/article.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/docs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/standard.css" afterDir="false" />
+    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="external css? uwu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-11-14/Pastries-and-Flowers.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/posts/2021-11-14/Pastries-and-Flowers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/2021-12-27/coding-jenson.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/posts/2021-12-27/coding-jenson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/experience.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/greetings.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/greetings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/help.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/commands/help.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/discordance/moderation/xdvaYbn6QI1Mjbqjos2LslZnhTPimKOzdpo4v1fzpEb1NZ4wRSm4o3mlDhYk/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jenson/commands.html" beforeDir="false" afterPath="$PROJECT_DIR$/jenson/commands.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/article.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/article.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/docs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/docs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/standard.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/standard.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,14 +99,8 @@
       <workItem from="1640636188830" duration="4865000" />
       <workItem from="1640816732443" duration="451000" />
       <workItem from="1640845634309" duration="2245000" />
-      <workItem from="1640942894277" duration="3894000" />
-    </task>
-    <task id="LOCAL-00018" summary="added comic 8">
-      <created>1636331696700</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1636331696700</updated>
+      <workItem from="1640942894277" duration="4893000" />
+      <workItem from="1640951418285" duration="46000" />
     </task>
     <task id="LOCAL-00019" summary="added comic 8t54tge">
       <created>1636397740836</created>
@@ -455,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640817138149</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="external css? uwu">
+      <created>1640946847096</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1640946847096</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fix name" />
     <MESSAGE value="fix mobile header" />
     <MESSAGE value="updated navbar" />
     <MESSAGE value="404 updated" />
@@ -499,6 +488,7 @@
     <MESSAGE value="favicon" />
     <MESSAGE value="fixed url" />
     <MESSAGE value="buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="buttons" />
+    <MESSAGE value="external css? uwu" />
+    <option name="LAST_COMMIT_MESSAGE" value="external css? uwu" />
   </component>
 </project>

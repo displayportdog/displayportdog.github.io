@@ -32,6 +32,12 @@ html {
         --navbar-back: #4e4e4e;
         --header-grad: linear-gradient(72deg, #22317c, #350449);
     }
+    a.url {
+        color: deepskyblue;
+    }
+    a.url:visited {
+        color: lightblue;
+    }
 }
 
 body {

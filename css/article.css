@@ -33,6 +33,12 @@ html {
         --header-grad: linear-gradient(72deg, #22317c, #350449);
         --dropcap: #cb4e34;
     }
+    a.url {
+        color: deepskyblue;
+    }
+    a.url:visited {
+        color: lightblue;
+    }
 }
 
 body {
