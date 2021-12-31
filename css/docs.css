@@ -40,6 +40,10 @@ td.hard{
 td.spccons{
     background-color: #ff88f9;
 }
+li a:hover {
+    background-color: #c2c2c2;
+    overflow: hidden;
+}
 
 @media (prefers-color-scheme: dark) {
     html {
@@ -75,6 +79,10 @@ td.spccons{
 
     td.spccons{
         background-color: #41063e;
+    }
+    li a:hover {
+        background-color: #676767;
+        overflow: hidden;
     }
 }
 
@@ -125,10 +133,7 @@ li a {
     text-decoration: none;
     overflow: hidden;
 }
-li a:hover {
-    background-color: #c2c2c2;
-    overflow: hidden;
-}
+
 
 
 @font-face {

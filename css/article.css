@@ -20,6 +20,10 @@ html {
     --header-grad: linear-gradient(72deg, #eb4242, #c00b41);
     --dropcap: #3f0d03;
 }
+li a:hover {
+    background-color: #c2c2c2;
+    overflow: hidden;
+}
 
 @media (prefers-color-scheme: dark) {
     html {
@@ -38,6 +42,10 @@ html {
     }
     a.url:visited {
         color: lightblue;
+    }
+    li a:hover {
+        background-color: #676767;
+        overflow: hidden;
     }
 }
 
@@ -95,10 +103,7 @@ li a {
     text-decoration: none;
     overflow: hidden;
 }
-li a:hover {
-    background-color: #c2c2c2;
-    overflow: hidden;
-}
+
 
 
 @font-face {

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="fix button">
+    <list default="true" id="b5569d3b-ec0d-4e44-b3b9-caa043e1ae8e" name="Changes" comment="consistency lol">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/article.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/article.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/docs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/docs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/standard.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/standard.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,14 +100,7 @@
       <workItem from="1640816732443" duration="451000" />
       <workItem from="1640845634309" duration="2245000" />
       <workItem from="1640942894277" duration="4893000" />
-      <workItem from="1640951418285" duration="1189000" />
-    </task>
-    <task id="LOCAL-00021" summary="fixed directories">
-      <created>1640398380014</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1640398380014</updated>
+      <workItem from="1640951418285" duration="1946000" />
     </task>
     <task id="LOCAL-00022" summary="moved to webcomics">
       <created>1640398430296</created>
@@ -443,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640951984684</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="consistency lol">
+      <created>1640955445397</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1640955445397</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,7 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="404 updated" />
     <MESSAGE value="fixed broken footer" />
     <MESSAGE value="test fix" />
     <MESSAGE value="relativity :(" />
@@ -487,6 +488,7 @@
     <MESSAGE value="external css? uwu" />
     <MESSAGE value="url colour fix" />
     <MESSAGE value="fix button" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix button" />
+    <MESSAGE value="consistency lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="consistency lol" />
   </component>
 </project>
